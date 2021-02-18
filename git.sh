@@ -77,8 +77,8 @@ cd $HOME
 pkg update && pkg upgrade
 pkg install git
 pkg install wget
-git clone https://github.com/Darkksinh/kp
-cd kp
+git clone https://github.com/PeuXllll/darkbot3.0
+cd darkbot3.0
 pkg install unzip
 pkg install nodejs
 pkg inatall ffmpeg
